@@ -1,0 +1,7 @@
+*.log
+.idea
+.vscode
+bin
+.DS_Store
+go-gataway
+vendor
